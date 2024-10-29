@@ -7,6 +7,7 @@ Here is a list of games:
 - Asteroid
 - Breakout
 - Pong
+- Invaders
 - Snake
 - Spaceship
 
